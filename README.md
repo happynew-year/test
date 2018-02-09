@@ -1,4 +1,4 @@
-自助添加 dApp 的步骤
+自助添加 dApp 的步骤<br>
 Fork 这个项目到自己的 GitHub 仓库，相当于拷贝一份到自己的 GitHub 账户下
 将自己的库 Pull 下来（这时候 Origin 是自己的地址，不是公共地址）
 创建子分支并修改本地 WebSite\wwwroot 目录下的 index.html 文件
